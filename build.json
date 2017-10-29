@@ -1,0 +1,13 @@
+{
+	"android": 
+	{
+	"release": 
+		{
+		"keystore": "aspire.keystore",
+		"storePassword": "aspireias.ins",
+		"alias": "key0",
+		"password" : "aspireias.ins",
+		"keystoreType": ""
+		}
+	}
+}

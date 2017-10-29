@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "385223705154",
+    "firebase_url": "https://aspire-ias-oltest.firebaseio.com",
+    "project_id": "aspire-ias-oltest",
+    "storage_bucket": "aspire-ias-oltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385223705154:android:15bbbe33b07d2baf",
+        "android_client_info": {
+          "package_name": "com.aspire.aspireiasolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385223705154-h63ttqv91fje17vp8lfhj9n7o9ppbhpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXz97-cnLxacS_ARquON95GH-FJzypN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
